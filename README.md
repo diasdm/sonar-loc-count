@@ -16,6 +16,7 @@ Requirements:
 * [curl](https://curl.haxx.se)
 * [jq](https://stedolan.github.io/jq/)
 * [cloc](https://github.com/AlDanial/cloc)
+* [gh](https://cli.github.com/)
 
 General usage
 -------------
